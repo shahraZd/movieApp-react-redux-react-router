@@ -1,0 +1,31 @@
+/* FONTS:---------------------------------
+  regular: 'playfair_displayregular'
+  black: 'playfair_displayblack'
+  black-italic: 'playfair_displayblack_italic'
+  bold: 'playfair_displaybold'
+  bold-italic: 'playfair_displaybold_italic'
+  italic: 'playfair_displayitalic' 
+  -----------------------------------------*/
+
+  
+*{
+  margin:0;
+  padding:0;
+  font-size:18px;
+  color:#000;
+  text-decoration: none;
+  font-family: "playfair_displayregular";
+
+  
+}
+
+ 
+/*----------------- Header -----------------*/
+.fa-plus-circle{
+  font-size:75px;
+  position:fixed;
+  bottom: 0;
+  right:0;
+  margin:25px;
+  z-index:1;
+}
